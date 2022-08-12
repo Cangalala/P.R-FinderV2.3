@@ -400,11 +400,11 @@ if __name__ == '__main__':
 
     else :
 
-        administrador = os.environ.get('administrador)
+        administrador = os.environ.get('overlordox')
 
-        bot_token = os.environ.get('bot_token')
+        bot_token = os.environ.get('5581940320:AAFZHIrVncf_60wX9pEWWYYU0jSCBt968q4')
 
-        user_id = os.environ.get('user_id')
+        user_id = os.environ.get('1449038487')
 
     bot = telegram.Bot(token=bot_token)
 
